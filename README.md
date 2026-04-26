@@ -1,8 +1,8 @@
 # Renatosants164
 
 # 👋 Olá, eu sou Renato
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/55e08235-f912-4f82-8247-1e5f789f403a" />
 
-<img src="LINK_DA_SUA_FOTO" width="150" style="border-radius: 50%;" />
 
 ## 🚀 Sobre mim
 - 🎯 Focado em Marketing Digital  
